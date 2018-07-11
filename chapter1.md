@@ -1,6 +1,12 @@
 # Configurações iniciais
 
-## Instalação do Vagrant - Ambiente Linux
+## Instalação do Git
+
+
+
+## Instalação do Vagrant
+
+### - Linux
 
 1. #### VirtualBox
 
@@ -13,7 +19,7 @@
     sudo apt-get install vagrant
 ```
 
-## Instalação do Vagrant - Ambiente Windows
+### - Windows
 
 1. #### Virtualbox
 
